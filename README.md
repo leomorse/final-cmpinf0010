@@ -1,4 +1,4 @@
-# stray-cat
+# Final Project for CMPINF 0010
 Team Name: [insert team name here]
 
 Team Members (alphabetized):
