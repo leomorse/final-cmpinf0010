@@ -11,8 +11,7 @@ Team Members (alphabetized):
 
 This repository is [insert one-sentence overview for someone who isn't familiar w/ project]
 
-[[link and description for first data set]](https://data.wprdc.org/dataset/toxic-release-inventory/resource/2750b8c8-246b-430f-b1e0-1aa96e00b013)
-Air pollution data
+[[Air pollution data]](https://data.wprdc.org/dataset/toxic-release-inventory/resource/2750b8c8-246b-430f-b1e0-1aa96e00b013)
 
 [link and description for second data set]
 
