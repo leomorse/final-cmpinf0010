@@ -15,4 +15,5 @@ This repository is a school project dedicated to finding the best neighborhood i
 
 [[Pittsburgh Trees]](https://data.wprdc.org/dataset/city-trees/resource/1515a93c-73e3-4425-9b35-1cd11b2196da)
 
-[link and description for third data set]
+[[Smart Trash Containers Data Set]](https://data.wprdc.org/dataset/smart-trash-containers)
+This data set gives the location of every city-maintained smart trash container.
