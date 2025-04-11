@@ -9,10 +9,10 @@ Team Members (alphabetized):
 
 - Matt Bell mdb193@pitt.edu
 
-This repository is [insert one-sentence overview for someone who isn't familiar w/ project]
+This repository is a school project dedicated to finding the best neighborhood in PittsBurgh to be a stray cat.
 
 [[Air pollution data]](https://data.wprdc.org/dataset/toxic-release-inventory/resource/2750b8c8-246b-430f-b1e0-1aa96e00b013)
 
-[link and description for second data set]
+[[Pittsburgh Trees]](https://data.wprdc.org/dataset/city-trees/resource/1515a93c-73e3-4425-9b35-1cd11b2196da)
 
 [link and description for third data set]
