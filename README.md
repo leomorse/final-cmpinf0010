@@ -1,13 +1,15 @@
 # Final Project for CMPINF 0010
-Team Name: [insert team name here]
+Team Name: Meowtropolitan Analytics
+
+Canvas Group #9
 
 Team Members (alphabetized):
 
-- Alex Sun als898@pitt.edu
+- Alex Sun als898@pitt.edu (AirPollution Notebook)
 
-- Leo Morse let112@pitt.edu
+- Leo Morse let112@pitt.edu (Trash_data Notebook)
 
-- Matt Bell mdb193@pitt.edu
+- Matt Bell mdb193@pitt.edu (Trees Notebook)
 
 This repository is for the final project of Pitt's CMPINF0010 class. It's dedicated to finding the best neighborhood in Pittsburgh to be a stray cat, based on the amount of air pollution (less=better), the amount of trees (cats like to climb trees; they provide shelter) and the amount of trashcans (for scavenging, and because trash attracts mice/rats).
 
